@@ -34,6 +34,7 @@ dependencies:
 - libgfortran=3.0.1=h93005f0_2
 - libiconv=1.15=hdd342a3_7
 - libpng=1.6.32=hd1e8b91_4
+- libprotobuf=3.4.1=h326466f_0
 - libsodium=1.0.15=hd9e47c5_0
 - markupsafe=1.0=py36h3a1e703_1
 - mistune=0.8.1=py36h638d0ca_0
@@ -42,7 +43,7 @@ dependencies:
 - nbformat=4.4.0=py36h827af21_0
 - ncurses=6.0=hd04f020_2
 - notebook=5.2.1=py36h640abe8_0
-- numpy=1.13.3=py36h2cdce51_0
+- numpy=1.12.1=py36h8871d66_1
 - openssl=1.0.2m=h86d3e6a_1
 - pandoc=1.19.2.1=ha5e8f32_1
 - pandocfilters=1.4.2=py36h3b0b094_1
@@ -51,6 +52,7 @@ dependencies:
 - pickleshare=0.7.4=py36hf512f8e_0
 - pip=9.0.1=py36h1555ced_4
 - prompt_toolkit=1.0.15=py36haeda067_0
+- protobuf=3.4.1=py36h314970b_0
 - ptyprocess=0.5.2=py36he6521c3_0
 - pygments=2.2.0=py36h240cd3f_0
 - pyqt=5.6.0=py36he5c6137_6
@@ -65,6 +67,7 @@ dependencies:
 - sip=4.18.1=py36h2824476_2
 - six=1.11.0=py36h0e22d5e_1
 - sqlite=3.20.1=h7e4c145_2
+- tensorflow=1.1.0=np112py36_0
 - terminado=0.6=py36h656782e_0
 - testpath=0.3.1=py36h625a49b_0
 - tk=8.6.7=h35a86e2_3
@@ -72,6 +75,7 @@ dependencies:
 - traitlets=4.3.2=py36h65bd3ce_0
 - wcwidth=0.1.7=py36h8c6ec74_0
 - webencodings=0.5.1=py36h3b9701d_1
+- werkzeug=0.12.2=py36h168efa1_0
 - wheel=0.30.0=py36h5eb2c71_1
 - widgetsnbextension=3.0.8=py36h34759f8_0
 - xz=5.2.3=h0278029_2
